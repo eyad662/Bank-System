@@ -53,5 +53,5 @@ The project simulates basic banking operations such as managing clients, handlin
 
 ## 📂 Data Format
 
-Clients are stored in the file using the following format:
+Clients are stored in the file using the following format: AccountNumber#//#PinCode#//#Name#//#Phone#//#Balance
 
